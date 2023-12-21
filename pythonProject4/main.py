@@ -54,15 +54,3 @@ while max(player_score) < max_score:
 max_score = max(player_score)
 windf = player_score.index(max_score)
 print('player number',windf + 1,'is the winner ',max_score)
-
-
-
-
-
-
-
-
-
-
-
-
